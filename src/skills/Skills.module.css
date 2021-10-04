@@ -2,6 +2,7 @@
     min-height: 100vh;
     background-color: #bfd7bf;
 }
+
 .skillsContainer {
     flex-direction: column;
     justify-content: flex-start;
