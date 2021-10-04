@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pavel/static/css/main.a41de031.chunk.css",
+    "main.css": "/pavel/static/css/main.44946ae4.chunk.css",
     "main.js": "/pavel/static/js/main.9dcda0cd.chunk.js",
     "main.js.map": "/pavel/static/js/main.9dcda0cd.chunk.js.map",
     "runtime-main.js": "/pavel/static/js/runtime-main.23f69f71.js",
@@ -10,13 +10,13 @@
     "static/js/3.a90bfb1c.chunk.js": "/pavel/static/js/3.a90bfb1c.chunk.js",
     "static/js/3.a90bfb1c.chunk.js.map": "/pavel/static/js/3.a90bfb1c.chunk.js.map",
     "index.html": "/pavel/index.html",
-    "static/css/main.a41de031.chunk.css.map": "/pavel/static/css/main.a41de031.chunk.css.map",
+    "static/css/main.44946ae4.chunk.css.map": "/pavel/static/css/main.44946ae4.chunk.css.map",
     "static/js/2.345ebce6.chunk.js.LICENSE.txt": "/pavel/static/js/2.345ebce6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.23f69f71.js",
     "static/js/2.345ebce6.chunk.js",
-    "static/css/main.a41de031.chunk.css",
+    "static/css/main.44946ae4.chunk.css",
     "static/js/main.9dcda0cd.chunk.js"
   ]
 }
