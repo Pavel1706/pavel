@@ -6,6 +6,7 @@ type ProjectType ={
     photo: string
     name: string
     description: string
+    background:   string
 }
 type AllProjectType={
     projectDescribe: Array<ProjectType>
@@ -16,16 +17,16 @@ export function Project(props:AllProjectType) {
 
 
     return (<>
-    <div className={style.main}>{props.projectDescribe.map(t=>
+    {props.projectDescribe.map(t=>
         <div key={t.id} className={style.project}>
-            <div className={style.icon}>
+            <div className={style.icon} style={{backgroundImage:t.background}}>
             <a className={style.button}>push</a></div>
             <div className={style.secondMain}>
-            <div className={style.name}>{t.name}</div>
+            <h3 className={style.projectTitle}>{t.name}</h3>
         <div className={style.description}>{t.description}</div>
             </div>
             </div>)}
-    </div>
+
         </>
 )
 }
