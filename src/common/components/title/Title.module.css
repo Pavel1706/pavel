@@ -1,0 +1,41 @@
+
+.title {
+    margin: 0 0 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 100;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 5px;
+    position: relative;
+
+}
+.title h2 {
+    margin: 0;
+}
+
+.title::before {
+    content: "";
+    position: absolute;
+    background: #ff0d0d;
+    width: 55px;
+    height: 1px;
+    bottom: -10px;
+    left: 50%;
+   transform: translate(-50%,50%);
+}
+.projects {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px ;
+}
+
+@media screen and (min-width: 1129px){
+    .projects {
+        justify-content: space-between;
+    }
+}
