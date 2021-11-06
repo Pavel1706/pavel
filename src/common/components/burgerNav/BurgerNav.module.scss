@@ -1,0 +1,23 @@
+@import '../common/styles/sass/variables';
+@import '../common/styles/sass/mixins';
+
+.nav {
+   //border: 1px solid red;
+   width: 300px;
+   display: flex;
+   justify-content: space-between;
+   @include text($TitleFontFamily, 16px, 1.2,300);
+   a {
+      text-decoration: none;
+      color: #fff;
+      &:hover {
+         color: $primaryColor
+      }
+   }
+      .active{
+         color:$primaryColor
+
+   }
+}
+
+
