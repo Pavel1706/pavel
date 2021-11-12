@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pavel/static/css/main.45fd1363.chunk.css",
-    "main.js": "/pavel/static/js/main.fdc88397.chunk.js",
-    "main.js.map": "/pavel/static/js/main.fdc88397.chunk.js.map",
-    "runtime-main.js": "/pavel/static/js/runtime-main.9f36c447.js",
-    "runtime-main.js.map": "/pavel/static/js/runtime-main.9f36c447.js.map",
-    "static/js/2.cf5528cc.chunk.js": "/pavel/static/js/2.cf5528cc.chunk.js",
-    "static/js/2.cf5528cc.chunk.js.map": "/pavel/static/js/2.cf5528cc.chunk.js.map",
-    "static/js/3.01257ab1.chunk.js": "/pavel/static/js/3.01257ab1.chunk.js",
-    "static/js/3.01257ab1.chunk.js.map": "/pavel/static/js/3.01257ab1.chunk.js.map",
+    "main.js": "/pavel/static/js/main.ab4d078a.chunk.js",
+    "main.js.map": "/pavel/static/js/main.ab4d078a.chunk.js.map",
+    "runtime-main.js": "/pavel/static/js/runtime-main.fe79a116.js",
+    "runtime-main.js.map": "/pavel/static/js/runtime-main.fe79a116.js.map",
+    "static/js/2.19b305c7.chunk.js": "/pavel/static/js/2.19b305c7.chunk.js",
+    "static/js/2.19b305c7.chunk.js.map": "/pavel/static/js/2.19b305c7.chunk.js.map",
+    "static/js/3.472f0e3c.chunk.js": "/pavel/static/js/3.472f0e3c.chunk.js",
+    "static/js/3.472f0e3c.chunk.js.map": "/pavel/static/js/3.472f0e3c.chunk.js.map",
     "index.html": "/pavel/index.html",
     "static/css/main.45fd1363.chunk.css.map": "/pavel/static/css/main.45fd1363.chunk.css.map",
-    "static/js/2.cf5528cc.chunk.js.LICENSE.txt": "/pavel/static/js/2.cf5528cc.chunk.js.LICENSE.txt",
+    "static/js/2.19b305c7.chunk.js.LICENSE.txt": "/pavel/static/js/2.19b305c7.chunk.js.LICENSE.txt",
     "static/media/242073a0b58e9c8d8df3aec07be9c4c7.7b50158f.jpg": "/pavel/static/media/242073a0b58e9c8d8df3aec07be9c4c7.7b50158f.jpg",
     "static/media/Main.module.scss": "/pavel/static/media/photo.c1901a55.jpg",
     "static/media/socialnetwork1-696x478-696x478.79e738ff.jpg": "/pavel/static/media/socialnetwork1-696x478-696x478.79e738ff.jpg",
@@ -21,9 +21,9 @@
     "static/media/unnamed.b58db4a8.png": "/pavel/static/media/unnamed.b58db4a8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f36c447.js",
-    "static/js/2.cf5528cc.chunk.js",
+    "static/js/runtime-main.fe79a116.js",
+    "static/js/2.19b305c7.chunk.js",
     "static/css/main.45fd1363.chunk.css",
-    "static/js/main.fdc88397.chunk.js"
+    "static/js/main.ab4d078a.chunk.js"
   ]
 }
