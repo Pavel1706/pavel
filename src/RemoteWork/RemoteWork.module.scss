@@ -1,0 +1,47 @@
+@import "../common/styles/sass/variables";
+@import '../common/styles/sass/mixins';
+@import '../common/components/button/Button.module';
+
+.head {
+    //border: 1px solid red;
+    //min-height: 50vh;
+    background-color: $bgColor;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    .main {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        //min-height: 60vh;
+        //border: 1px solid;
+        width: 100%;
+        button[type="submit"] {
+            @extend .btn;
+            align-self: center;
+            background-color: transparent;
+            margin-top: 30px;
+
+        }
+        //.button {
+        //    border-radius: 45%;
+        //    padding: 10px 20px;
+        //    background-color: $primaryColor;
+        //    position: relative;
+        //    z-index: 1;
+        //    opacity: 0.3;
+        //    color: $textColor;
+        //}
+    }
+}
+
+
+
+//.button {
+//    background-color: cornflowerblue;
+//    border: 1px solid black;
+//    height: 25px;
+//    width: 80px;
+//}
